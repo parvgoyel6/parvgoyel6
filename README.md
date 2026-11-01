@@ -15,7 +15,7 @@
 | Project | What it does | Links |
 | :-- | :-- | :-- |
 | **AI Resume & Career Advisor** | Full-stack FastAPI app that extracts text from resume and job-description PDFs, runs skill-gap analysis, scores alignment, and builds an interview roadmap with a 3-month prep plan. | [Repo](https://github.com/parvgoyel6/AI-Career-Advisor) |
-| **OceanPlus · DeepCurrent** | Team project for SIH 2026. | [Repo](https://github.com/nikhilsinghX/OCEANPLUS---DEEPCURRENT) |
+| **OceanPlus · DeepCurrent** | Team project for SIH 2026. | [Repo](https://github.com/parvgoyel6/OCEANPLUS-DEEPCURRENT) |
 <!-- Project 3 pending: send name, one-line description, URL -->
 
 <div align="center">
